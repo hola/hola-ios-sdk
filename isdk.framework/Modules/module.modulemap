@@ -1,0 +1,11 @@
+framework module isdk {
+  umbrella header "isdk.h"
+
+  export *
+  module * { export * }
+}
+
+module isdk.Swift {
+    header "isdk-Swift.h"
+    requires objc
+}
