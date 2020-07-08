@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name                  = "HolaSDK"
-    s.version               = "0.1.1"
+    s.version               = "0.1.2"
     s.summary               = "HolaSDK"
     s.description           = "HolaSDK for iOS"
     s.homepage              = "https://hola.org"
