@@ -3,7 +3,7 @@
 ## Integration
 ```
 target 'MyApp' do
-  pod 'HolaSDK', '0.1.4'
+  pod 'HolaSDK', '0.1.5'
 end
 ```
 
