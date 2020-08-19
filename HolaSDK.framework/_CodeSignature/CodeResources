@@ -14,27 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		3hjTarzyRjAxuDtFkvTQqN0vM0Y=
-		</data>
-		<key>Modules/HolaSDK.swiftmodule/Project/arm.swiftsourceinfo</key>
-		<data>
-		Pn8DXVReJwxklY5A/d0WvuYuwOc=
-		</data>
-		<key>Modules/HolaSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
-		<data>
-		RP22Krs/jKHN9AGj6r8pXk1mJUM=
-		</data>
-		<key>Modules/HolaSDK.swiftmodule/Project/arm64.swiftsourceinfo</key>
-		<data>
-		RP22Krs/jKHN9AGj6r8pXk1mJUM=
-		</data>
-		<key>Modules/HolaSDK.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
-		<data>
-		Pn8DXVReJwxklY5A/d0WvuYuwOc=
-		</data>
-		<key>Modules/HolaSDK.swiftmodule/Project/armv7.swiftsourceinfo</key>
-		<data>
-		Pn8DXVReJwxklY5A/d0WvuYuwOc=
+		aygPNUl+4/rkGRAbHPJwPlGlc3k=
 		</data>
 		<key>Modules/HolaSDK.swiftmodule/arm.swiftdoc</key>
 		<data>
@@ -42,7 +22,7 @@
 		</data>
 		<key>Modules/HolaSDK.swiftmodule/arm.swiftmodule</key>
 		<data>
-		oswG+GA3r/bOgmZaBZb4Sx0oa3I=
+		tl2tVkUdKwOl0kSHusrawyauFfI=
 		</data>
 		<key>Modules/HolaSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -50,7 +30,7 @@
 		</data>
 		<key>Modules/HolaSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		vQclWg40U9T1L4MkBrk51xaZ4EQ=
+		5ioFYV5Dlc5mM44ub635Tg9iURI=
 		</data>
 		<key>Modules/HolaSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -58,7 +38,7 @@
 		</data>
 		<key>Modules/HolaSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		vQclWg40U9T1L4MkBrk51xaZ4EQ=
+		5ioFYV5Dlc5mM44ub635Tg9iURI=
 		</data>
 		<key>Modules/HolaSDK.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<data>
@@ -66,7 +46,7 @@
 		</data>
 		<key>Modules/HolaSDK.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<data>
-		oswG+GA3r/bOgmZaBZb4Sx0oa3I=
+		tl2tVkUdKwOl0kSHusrawyauFfI=
 		</data>
 		<key>Modules/HolaSDK.swiftmodule/armv7.swiftdoc</key>
 		<data>
@@ -74,7 +54,7 @@
 		</data>
 		<key>Modules/HolaSDK.swiftmodule/armv7.swiftmodule</key>
 		<data>
-		oswG+GA3r/bOgmZaBZb4Sx0oa3I=
+		tl2tVkUdKwOl0kSHusrawyauFfI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -105,61 +85,6 @@
 			cz8C7nv1bpfT6EV3Q0I/ieRYmFF36Pdo5HUO80nU0rY=
 			</data>
 		</dict>
-		<key>Modules/HolaSDK.swiftmodule/Project/arm.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Pn8DXVReJwxklY5A/d0WvuYuwOc=
-			</data>
-			<key>hash2</key>
-			<data>
-			phrnpLkV0cO4zWCt2LBaXrWbD4otIzwA+bwxPGISKvY=
-			</data>
-		</dict>
-		<key>Modules/HolaSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			RP22Krs/jKHN9AGj6r8pXk1mJUM=
-			</data>
-			<key>hash2</key>
-			<data>
-			ezq2SsDBrXPp499danCBxIJ3IajsdngIg4YCTDltkWU=
-			</data>
-		</dict>
-		<key>Modules/HolaSDK.swiftmodule/Project/arm64.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			RP22Krs/jKHN9AGj6r8pXk1mJUM=
-			</data>
-			<key>hash2</key>
-			<data>
-			ezq2SsDBrXPp499danCBxIJ3IajsdngIg4YCTDltkWU=
-			</data>
-		</dict>
-		<key>Modules/HolaSDK.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Pn8DXVReJwxklY5A/d0WvuYuwOc=
-			</data>
-			<key>hash2</key>
-			<data>
-			phrnpLkV0cO4zWCt2LBaXrWbD4otIzwA+bwxPGISKvY=
-			</data>
-		</dict>
-		<key>Modules/HolaSDK.swiftmodule/Project/armv7.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Pn8DXVReJwxklY5A/d0WvuYuwOc=
-			</data>
-			<key>hash2</key>
-			<data>
-			phrnpLkV0cO4zWCt2LBaXrWbD4otIzwA+bwxPGISKvY=
-			</data>
-		</dict>
 		<key>Modules/HolaSDK.swiftmodule/arm.swiftdoc</key>
 		<dict>
 			<key>hash</key>
@@ -175,11 +100,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oswG+GA3r/bOgmZaBZb4Sx0oa3I=
+			tl2tVkUdKwOl0kSHusrawyauFfI=
 			</data>
 			<key>hash2</key>
 			<data>
-			DKHQL2M/CIw0kjS3UF8vcNUUVbTcvFq2F6iYM3tCWWk=
+			Z/myqJN05GQQxvINdJo/idS65V7dYzdFxO6ef/hJkaI=
 			</data>
 		</dict>
 		<key>Modules/HolaSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -197,11 +122,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vQclWg40U9T1L4MkBrk51xaZ4EQ=
+			5ioFYV5Dlc5mM44ub635Tg9iURI=
 			</data>
 			<key>hash2</key>
 			<data>
-			nyi+hQpsYeJIeYV3CR57O2XfsFqTIXxp+JngnIGzgrg=
+			AF4/bj/zYf+LuYwhz4sZN+ib02R2KyIdiCggzGZ7ry4=
 			</data>
 		</dict>
 		<key>Modules/HolaSDK.swiftmodule/arm64.swiftdoc</key>
@@ -219,11 +144,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vQclWg40U9T1L4MkBrk51xaZ4EQ=
+			5ioFYV5Dlc5mM44ub635Tg9iURI=
 			</data>
 			<key>hash2</key>
 			<data>
-			nyi+hQpsYeJIeYV3CR57O2XfsFqTIXxp+JngnIGzgrg=
+			AF4/bj/zYf+LuYwhz4sZN+ib02R2KyIdiCggzGZ7ry4=
 			</data>
 		</dict>
 		<key>Modules/HolaSDK.swiftmodule/armv7-apple-ios.swiftdoc</key>
@@ -241,11 +166,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oswG+GA3r/bOgmZaBZb4Sx0oa3I=
+			tl2tVkUdKwOl0kSHusrawyauFfI=
 			</data>
 			<key>hash2</key>
 			<data>
-			DKHQL2M/CIw0kjS3UF8vcNUUVbTcvFq2F6iYM3tCWWk=
+			Z/myqJN05GQQxvINdJo/idS65V7dYzdFxO6ef/hJkaI=
 			</data>
 		</dict>
 		<key>Modules/HolaSDK.swiftmodule/armv7.swiftdoc</key>
@@ -263,11 +188,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oswG+GA3r/bOgmZaBZb4Sx0oa3I=
+			tl2tVkUdKwOl0kSHusrawyauFfI=
 			</data>
 			<key>hash2</key>
 			<data>
-			DKHQL2M/CIw0kjS3UF8vcNUUVbTcvFq2F6iYM3tCWWk=
+			Z/myqJN05GQQxvINdJo/idS65V7dYzdFxO6ef/hJkaI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
