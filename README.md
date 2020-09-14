@@ -3,7 +3,7 @@
 ## Integration
 ```
 target 'MyApp' do
-  pod 'HolaSDK', '0.1.7'
+  pod 'HolaSDK', '0.1.8'
 end
 ```
 
@@ -22,10 +22,12 @@ Use unblocker to send HTTPS requests
 ```HolaExample.swift
 import HolaSDK
 
-// create URLSession (multiple sessions allowed)
+// create URLSession (multiple sessions allowed),
+// URLSessionDelegate as a second parameter is optional
 let configuration = URLSessionConfiguration.default
 configuration.XXX = YYY
-let myGlobalSession = HolaSDK.shared.createUnblockerSession(conf: configuration)
+let myGlobalSession = HolaSDK.shared.createUnblockerSession(conf: configuration,
+    delegate: self)
 
 // use standard URLSession API to make requests
 let url = URL("https://example.com/demo/path")!
