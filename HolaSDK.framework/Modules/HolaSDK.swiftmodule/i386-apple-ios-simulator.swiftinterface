@@ -1,0 +1,35 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)
+// swift-module-flags: -target i386-apple-ios8.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name HolaSDK
+import Foundation
+import NetworkExtension
+import Swift
+import UIKit
+@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class HolaSDK : ObjectiveC.NSObject {
+  public static let shared: HolaSDK.HolaSDK
+  public func login(as customer: Swift.String)
+  public func createUnblockerSession(conf: Foundation.URLSessionConfiguration, delegate: Foundation.URLSessionDelegate? = nil) -> Foundation.URLSession
+  @objc deinit
+}
+public enum HolaError : Swift.Int, Swift.Error {
+  case UnblockerResourceUnreachable
+  case UnblockerInternalError
+  public typealias RawValue = Swift.Int
+  public init?(rawValue: Swift.Int)
+  public var rawValue: Swift.Int {
+    get
+  }
+}
+extension NEVPNStatus {
+  public var description: Swift.String {
+    get
+  }
+}
+extension NEVPNManager {
+  public var isOnDemandActive: Swift.Bool {
+    get
+  }
+}
+extension HolaSDK.HolaError : Swift.Equatable {}
+extension HolaSDK.HolaError : Swift.Hashable {}
+extension HolaSDK.HolaError : Swift.RawRepresentable {}
