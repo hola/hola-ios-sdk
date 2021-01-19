@@ -1,0 +1,4 @@
+framework module HolaSDK {
+  header "HolaSDK-Swift.h"
+  requires objc
+}
