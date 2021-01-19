@@ -6,7 +6,7 @@ import NetworkExtension
 import Swift
 import UIKit
 @objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class HolaSDK : ObjectiveC.NSObject {
-  public static let shared: HolaSDK.HolaSDK
+  public static let shared: HolaSDK
   public func login(as customer: Swift.String)
   public func createUnblockerSession(conf: Foundation.URLSessionConfiguration, delegate: Foundation.URLSessionDelegate? = nil) -> Foundation.URLSession
   @objc deinit
@@ -30,6 +30,6 @@ extension NEVPNManager {
     get
   }
 }
-extension HolaSDK.HolaError : Swift.Equatable {}
-extension HolaSDK.HolaError : Swift.Hashable {}
-extension HolaSDK.HolaError : Swift.RawRepresentable {}
+extension HolaError : Swift.Equatable {}
+extension HolaError : Swift.Hashable {}
+extension HolaError : Swift.RawRepresentable {}

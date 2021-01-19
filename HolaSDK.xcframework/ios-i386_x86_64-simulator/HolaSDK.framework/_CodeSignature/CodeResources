@@ -14,55 +14,55 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		cfNASwcKZU89XHf/lADvG7Lt1uo=
+		M8wJN/2G4P4gsxhxv/s43ziBa+4=
 		</data>
 		<key>Modules/HolaSDK.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
-		2fK/5QjvkLm1CAlW6xJxRYTd5c0=
+		gbYq9BCbLhsx5fxTY3kK3rBgfvM=
 		</data>
 		<key>Modules/HolaSDK.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
 		<data>
-		WDcaOLDTv8GJlD+oP8NwuugK5jc=
+		+L5vF6Urf7GovduIj/hAfCVY/IQ=
 		</data>
 		<key>Modules/HolaSDK.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		IveAkDOyR+g1vhvCa9TKksbxXH8=
+		NH8S83DMrVUEqKDbzVE2tv9M858=
 		</data>
 		<key>Modules/HolaSDK.swiftmodule/i386.swiftdoc</key>
 		<data>
-		2fK/5QjvkLm1CAlW6xJxRYTd5c0=
+		gbYq9BCbLhsx5fxTY3kK3rBgfvM=
 		</data>
 		<key>Modules/HolaSDK.swiftmodule/i386.swiftinterface</key>
 		<data>
-		WDcaOLDTv8GJlD+oP8NwuugK5jc=
+		+L5vF6Urf7GovduIj/hAfCVY/IQ=
 		</data>
 		<key>Modules/HolaSDK.swiftmodule/i386.swiftmodule</key>
 		<data>
-		IveAkDOyR+g1vhvCa9TKksbxXH8=
+		NH8S83DMrVUEqKDbzVE2tv9M858=
 		</data>
 		<key>Modules/HolaSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		172PaQnUvEQNyYmGM8CHY6okrMk=
+		PKYHieznsf+pGCNoqtK9sWYmmFo=
 		</data>
 		<key>Modules/HolaSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		vu9cn2m+NLH0kD96jUvVaEASJCA=
+		Trlsw9bfQ9GrwiDx35l0yajTHq0=
 		</data>
 		<key>Modules/HolaSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		LMKJhpxBhoEKBn6OsW5X+0jj8HA=
+		Vd/NiiwTmuvcvaN41DQMN3bE360=
 		</data>
 		<key>Modules/HolaSDK.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		172PaQnUvEQNyYmGM8CHY6okrMk=
+		PKYHieznsf+pGCNoqtK9sWYmmFo=
 		</data>
 		<key>Modules/HolaSDK.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		vu9cn2m+NLH0kD96jUvVaEASJCA=
+		Trlsw9bfQ9GrwiDx35l0yajTHq0=
 		</data>
 		<key>Modules/HolaSDK.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		LMKJhpxBhoEKBn6OsW5X+0jj8HA=
+		Vd/NiiwTmuvcvaN41DQMN3bE360=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -97,132 +97,132 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2fK/5QjvkLm1CAlW6xJxRYTd5c0=
+			gbYq9BCbLhsx5fxTY3kK3rBgfvM=
 			</data>
 			<key>hash2</key>
 			<data>
-			aEwXcd8Hmsk6vQ69MXeG0doCXX2UX1i5pvXTPKb+CsU=
+			rKzgn4yfk2BuwUGtBXh/j+MnSTtrvkCXOXkLI+0eqIw=
 			</data>
 		</dict>
 		<key>Modules/HolaSDK.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WDcaOLDTv8GJlD+oP8NwuugK5jc=
+			+L5vF6Urf7GovduIj/hAfCVY/IQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			1u64fiewlGk1gyGl0k1gDxLZRy7NIjDg1o1pjxz0CYM=
+			vj/1+d73p9I0rd0vbyDkgBEUQH5WMU0MWAhZhZg7NEc=
 			</data>
 		</dict>
 		<key>Modules/HolaSDK.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			IveAkDOyR+g1vhvCa9TKksbxXH8=
+			NH8S83DMrVUEqKDbzVE2tv9M858=
 			</data>
 			<key>hash2</key>
 			<data>
-			I3HKTBOWl/oSCE/PgypCn2AfbiU0bzNRXR0y9hASBd0=
+			70iSjOGfP1UMHYwfisu5RTaeDHRoNYYVeTYRupVPqHg=
 			</data>
 		</dict>
 		<key>Modules/HolaSDK.swiftmodule/i386.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2fK/5QjvkLm1CAlW6xJxRYTd5c0=
+			gbYq9BCbLhsx5fxTY3kK3rBgfvM=
 			</data>
 			<key>hash2</key>
 			<data>
-			aEwXcd8Hmsk6vQ69MXeG0doCXX2UX1i5pvXTPKb+CsU=
+			rKzgn4yfk2BuwUGtBXh/j+MnSTtrvkCXOXkLI+0eqIw=
 			</data>
 		</dict>
 		<key>Modules/HolaSDK.swiftmodule/i386.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WDcaOLDTv8GJlD+oP8NwuugK5jc=
+			+L5vF6Urf7GovduIj/hAfCVY/IQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			1u64fiewlGk1gyGl0k1gDxLZRy7NIjDg1o1pjxz0CYM=
+			vj/1+d73p9I0rd0vbyDkgBEUQH5WMU0MWAhZhZg7NEc=
 			</data>
 		</dict>
 		<key>Modules/HolaSDK.swiftmodule/i386.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			IveAkDOyR+g1vhvCa9TKksbxXH8=
+			NH8S83DMrVUEqKDbzVE2tv9M858=
 			</data>
 			<key>hash2</key>
 			<data>
-			I3HKTBOWl/oSCE/PgypCn2AfbiU0bzNRXR0y9hASBd0=
+			70iSjOGfP1UMHYwfisu5RTaeDHRoNYYVeTYRupVPqHg=
 			</data>
 		</dict>
 		<key>Modules/HolaSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			172PaQnUvEQNyYmGM8CHY6okrMk=
+			PKYHieznsf+pGCNoqtK9sWYmmFo=
 			</data>
 			<key>hash2</key>
 			<data>
-			g/F2cAsxxXQ13uV47Nw9j6gH6FyiqIAtDjPPDjEOg6U=
+			HyM+iyFcPPCrdStBXejgp/3FLlD8ZVH6ekaoW5+SHtI=
 			</data>
 		</dict>
 		<key>Modules/HolaSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vu9cn2m+NLH0kD96jUvVaEASJCA=
+			Trlsw9bfQ9GrwiDx35l0yajTHq0=
 			</data>
 			<key>hash2</key>
 			<data>
-			Yf0UvLHD0w8j2MVBOu09Vi/IqAffPi3vL/ulfSpM8W0=
+			Vb1OXDJ57SKkDJQamIu0ZlOEdAR/6/EMRf95+mxkZB0=
 			</data>
 		</dict>
 		<key>Modules/HolaSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LMKJhpxBhoEKBn6OsW5X+0jj8HA=
+			Vd/NiiwTmuvcvaN41DQMN3bE360=
 			</data>
 			<key>hash2</key>
 			<data>
-			12RhuL+s/g0gThqSO+KB/mX6mBPhuEaoQwKfBuHyUrY=
+			+wR3qSlQOduqAW30J9uMrLzK7J3gtE9Lxw/FRd7W1Oc=
 			</data>
 		</dict>
 		<key>Modules/HolaSDK.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			172PaQnUvEQNyYmGM8CHY6okrMk=
+			PKYHieznsf+pGCNoqtK9sWYmmFo=
 			</data>
 			<key>hash2</key>
 			<data>
-			g/F2cAsxxXQ13uV47Nw9j6gH6FyiqIAtDjPPDjEOg6U=
+			HyM+iyFcPPCrdStBXejgp/3FLlD8ZVH6ekaoW5+SHtI=
 			</data>
 		</dict>
 		<key>Modules/HolaSDK.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vu9cn2m+NLH0kD96jUvVaEASJCA=
+			Trlsw9bfQ9GrwiDx35l0yajTHq0=
 			</data>
 			<key>hash2</key>
 			<data>
-			Yf0UvLHD0w8j2MVBOu09Vi/IqAffPi3vL/ulfSpM8W0=
+			Vb1OXDJ57SKkDJQamIu0ZlOEdAR/6/EMRf95+mxkZB0=
 			</data>
 		</dict>
 		<key>Modules/HolaSDK.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LMKJhpxBhoEKBn6OsW5X+0jj8HA=
+			Vd/NiiwTmuvcvaN41DQMN3bE360=
 			</data>
 			<key>hash2</key>
 			<data>
-			12RhuL+s/g0gThqSO+KB/mX6mBPhuEaoQwKfBuHyUrY=
+			+wR3qSlQOduqAW30J9uMrLzK7J3gtE9Lxw/FRd7W1Oc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
